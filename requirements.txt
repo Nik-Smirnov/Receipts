@@ -1,5 +1,4 @@
-bs4
-pandas 
-requests
-streamlit
-re
+bs4==0.0.2
+pandas==2.3.0
+requests==2.32.4
+streamlit==1.46.0
