@@ -4,7 +4,7 @@ import requests
 import re
 import pandas as pd
 
-st.title("Парсер товаров из чека")
+st.title("Покупки в гипермаркете Глобус")
 st.write("Введите ссылку на чек:")
 
 link = st.text_input("Ссылка")
